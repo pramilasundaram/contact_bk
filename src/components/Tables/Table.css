@@ -1,0 +1,11 @@
+
+.profile_div img{
+   max-width:100px;
+    height: 100px;
+    border-radius:50% ;
+    border:1px solid black;
+}
+
+.text-center{
+    box-sizing: border-box;
+}
